@@ -4,7 +4,7 @@ Fitness AI is a microservices-based fitness application that uses AI to provide 
 
 ---
 
-## 📌 Features
+## Features
 - **User Service** – Manages user profiles, authentication, and preferences.
 - **Activity Service** – Tracks workouts and fitness activities.
 - **AI Service** – Generates personalized recommendations using AI.
@@ -15,7 +15,7 @@ Fitness AI is a microservices-based fitness application that uses AI to provide 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Backend:** Java Spring Boot, Spring Cloud
 - **Frontend:** React.js
 - **Database:** MongoDB
@@ -28,7 +28,7 @@ Fitness AI is a microservices-based fitness application that uses AI to provide 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ###  Clone the repository
 ```bash
